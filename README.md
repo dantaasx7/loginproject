@@ -1,4 +1,4 @@
 # Dashboard Project
-Aplicação web criada no intuito de aprimorar minhas habilidades como desenvolvedor front-end para a criação dessa apliação ultilizei HTML, CSS e JavaScript (Projeto ultilizado como exercicio para praticar, Creditos: ASMRProgamming)
+Aplicação web criada no intuito de aprimorar minhas habilidades como desenvolvedor front-end para a criação dessa apliação ultilizei HTML, CSS e JavaScript (Projeto ultilizado como exercicio de praticação, Creditos: ASMRProgamming)
 <br>
-<a href="#">Acesse uma Demonstração</a>
+<a href="https://dantaasx7.github.io/project/">Acesse uma Demonstração</a>
